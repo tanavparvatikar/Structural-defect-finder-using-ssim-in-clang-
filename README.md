@@ -1,6 +1,6 @@
 # Live Object Similarity Detector in C
 
-#### Video Demo: <ADD YOUR YOUTUBE OR OTHER VIDEO URL HERE>
+#### Video Demo: https://youtu.be/7P4OzM_kS0g
 
 #### Description
 
